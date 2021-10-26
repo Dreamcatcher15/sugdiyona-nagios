@@ -1,0 +1,9 @@
+---
+# vars file for roles/diana.nagios_add_servers
+target_server_list:
+  - server_name: "JENKINS"
+    server_ip: "192.168.1.247"
+  #- server_name: "WEB002"
+    #server_ip: "192.168.1.218"
+  #- server_name: "WEB003"
+    #server_ip: "192.168.1.219"
